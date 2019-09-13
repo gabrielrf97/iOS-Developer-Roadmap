@@ -96,7 +96,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Observer
                     - [ ] Proxy
                     - [ ] Receptionist
-                    - [ ] Singleton
+                    - [x] Singleton
                     - [ ] Template Method
                     - [ ] MVC
                 - [ ] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
